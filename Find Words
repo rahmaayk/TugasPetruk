@@ -1,3 +1,5 @@
 #include<iostream>
 #include<cstring>
 using namespace std;
+int main(){
+    char kata2[15];
